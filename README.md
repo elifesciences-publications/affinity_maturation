@@ -1,3 +1,5 @@
+This code is associated with the paper from Molari et al., "Quantitative modeling of the effect of antigen dosage on B-cell affinity distributions in maturating germinal centers". eLife, 2020. http://doi.org/10.7554/eLife.55678
+
 [![Documentation Status](https://readthedocs.org/projects/affinity-maturation/badge/?version=latest)](https://affinity-maturation.readthedocs.io/en/latest/?badge=latest)
 [![License: MIT](https://img.shields.io/github/license/mmolari/affinity_maturation)](https://opensource.org/licenses/MIT)
 [![Python version](https://img.shields.io/badge/python-3.7-blue)](https://www.python.org/downloads/)
